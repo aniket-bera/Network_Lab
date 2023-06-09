@@ -1,0 +1,19 @@
+3. IPC: Program handling PIPE: Write a program using pipe such that the content of an existing file to be written to the one end of a pipe and to be read from the other end of it.
+
+4. IPC: Program for Client-Server Communication using TCP Socket: Write a program using TCP socket such that a client will accept a message from the user and send it to the server. The server will display the message and the IP address and port number of the client.
+
+5. IPC: Program for Client-Server Communication using TCP Socket: Write a program to develop an Iterative ECHO server using TCP socket.
+
+6. IPC: Program for Client-Server Communication using TCP Socket: Write a program to develop a Iterative Day-Time server using TCP socket.
+
+7. IPC: Program for Client-Server Communication using UDP Socket Write a program to develop an Iterative ECHO server using UDP socket.
+
+8. IPC: Program for Client Server Communication using UDP Socket: Write a program to develop a herative Day Time server using UDP socket.
+
+9. IPC: Program for Client-Server Communication using TCP Socket: Write a program to develop a Concurrent ECHO server using TCP socket Use at least two client programs to implement it.
+
+10. Sliding Window Implementation: Write a program to implement Sliding Window protocol.
+
+11. Write a program to develop a Concurrent ECHO server using UDP socket. Use at least client programs to implement it.
+
+12. Write a program using TCP socket to implement Iterative char server
